@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+.next
+.env
+out
+build
+dist
+media/*
+yarn-error.log
